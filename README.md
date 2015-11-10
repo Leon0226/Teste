@@ -1,2 +1,0 @@
-# Teste
-First test repository
